@@ -37,6 +37,4 @@ This theme is currently maintained manually. If you encounter issues with specif
 This project is a port of the [Ayu Theme for VS Code](https://github.com/ayu-theme/vscode-ayu).
 
 * **Original Authors:** [teabyii](https://github.com/teabyii) and [dempfi](https://github.com/dempfi).
-* **License:** MIT
-
-The code in this repository is licensed under AGPL3.
+* **License:** AGPL3
